@@ -14,30 +14,6 @@ Showcase AI is a full-stack product catalog platform. Customers browse, search, 
 
 ---
 
-## Screenshots
-
-### Homepage — Industrial Power Solutions Catalog
-The customer-facing catalog. Real-time product counts pulled from the database. Search bar with AI-powered product matching.
-
-![Homepage](./screenshots/homepage.png)
-
-### AI Search — Natural Language Product Discovery
-Type "office UPS for 10 computers" and the AI matches the right products from the catalog with semantic understanding — not just keyword matching.
-
-![AI Search](./screenshots/ai-search.png)
-
-### Admin Login Portal
-Secure JWT-authenticated admin login. "Back to Catalog" link for misdirected visitors. Redirects to dashboard on success.
-
-![Admin Login](./screenshots/admin-login.png)
-
-### Admin Dashboard
-Live stats: 27 products, 13 categories, 3 leads, conversion rate. Platform growth chart. Recent activity feed. All data from the real database.
-
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
----
-
 ## Tech Stack
 
 | Layer | Technology | Purpose |
